@@ -1,0 +1,16 @@
+1.) For this project, I used the java.time package to really help parse and order the dates (In Offset encoding)
+    I also decided to make my CSV parser not use ".split()" because I wanted to make sure that commas inside quotes
+    were accounted for. Moreover, I used a hashMap for constant time searches.
+    Overall, I used java because it is a comfortable language for me to use object-oriented programming.
+
+2.) As mentioned before, the advantages of my CSV parsing solution is that it can take into account when commas are written in quotes (which
+    often time they are in titles). I also think my code scales well with the use of HashMaps and excluding nested for loops. I'd say some of the
+    disadvantages with using java , specifically, is that the code can get messy fast with too many objects. Naming the variables and methods were
+    important. I'd also say that my java program doesn't run as fast as programs written in C++ / Python.
+
+3.) My favorite school project so far was implementing Djikstra's algorithm. Up until then, we had only mainly implemented data structures whilst
+    briefly looking at some sorting algorithms. I thoroughly enjoyed graphs and graph algorithms because I like their analogies to connections and
+    links (cellphone towers, maps, literally everything navegationally important). It was really challenging because I didn't know how to implement
+    the helper data structure needed for Djikstra's. But once I got it done, it was the best feeling ever and I even got a 40/40 on it!
+
+    
